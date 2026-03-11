@@ -1,6 +1,6 @@
 {
   "hosting": {
-    "site": "tsm-agro",
+    "site": "tsm-agro-edjwc",
     "public": "dist",
     "ignore": [
       "firebase.json",
